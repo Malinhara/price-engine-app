@@ -17,7 +17,9 @@ If you are developing a production application, we recommend using TypeScript wi
 - Vitest for test the application
 
 ## App
-![Screenshot 2025-06-12 130117](https://github.com/user-attachments/assets/f252c961-7b37-4221-b784-7e91d8d97987)
+![Screenshot 2025-06-12 130117](https://github.com/user-attachments/assets/2e4673ab-9289-4f1d-9533-c2ab63a0fcec)
+
 
 ## Test case image
-![Screenshot 2025-06-12 124923](https://github.com/user-attachments/assets/9964021c-70cd-4484-933d-f4a1d101a6bd)
+![Screenshot 2025-06-12 124923](https://github.com/user-attachments/assets/dd8af4a7-069e-40bd-b3db-373a9b045bc0)
+
